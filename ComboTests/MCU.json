@@ -1,0 +1,54 @@
+[
+    {
+      "title": "Black Widow",
+      "heroes": [
+        {
+          "name": "Black Widow"
+        }
+      ],
+      "seriesCounter": 1
+    },
+    {
+      "title": "Captain America - The First Avenger",
+      "heroes": [
+        {
+          "name": "Cap"
+        }
+      ],
+      "seriesCounter": 1
+    },
+    {
+      "title": "Thor",
+      "heroes": [
+        {
+          "name": "Thor"
+        }
+      ],
+      "seriesCounter": 1
+    },
+    {
+      "title": "Avengers",
+      "heroes": [
+        {
+          "name": "Thor"
+        },
+        {
+          "name": "Cap"
+        },
+        {
+          "name": "Black Widow"
+        },
+        {
+          "name": "Hawakeye"
+        },
+        {
+          "name": "Hulk"
+        },
+        {
+          "name": "Iron Man"
+        }
+      ],
+      "seriesCounter": 1
+    }
+  ]
+

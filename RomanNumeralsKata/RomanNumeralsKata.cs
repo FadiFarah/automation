@@ -59,7 +59,7 @@ namespace RomanNumeralsKata
         public static int RomanToArabic(string roman)
         {
             var number = 0;
-            for(int i=0; i < roman.Length; i++)
+            for(int i = 0; i < roman.Length; i++)
             {
                 if(roman.Length - i > 1)
                 {
